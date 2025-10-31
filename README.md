@@ -10,7 +10,7 @@ Lightweight algorithm for desktop VR integration
 **How to Use**
 To use this algorithm, you need to download the Multi-Browser VE from this link https://github.com/hanashanafi/Multi-Browser-dekstopVR-1
 Then Integration (Unity):
-Add the CamFix.cs script to your Main Camera object.
+Add the CamComplex.cs script to your Main Camera object.
 Press Play or Build and Run, and navigate using only the mouse.
 
 Copyright © 2025 University of Pannonia, Veszprém, Hungary. All Rights Reserved.
